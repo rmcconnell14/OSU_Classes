@@ -1,5 +1,5 @@
 /*********************************************************************
-** Program Filename: fib.cpp
+** Program Filename: fibonacci.cpp
 ** Author: Rachael McConnell
 ** Date: 12/2/2014
 ** Description: This program compares the runtime performance of 3 algorithms, each calculating the Fibonacci sequence in a different way.
